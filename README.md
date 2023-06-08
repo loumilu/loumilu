@@ -1,5 +1,5 @@
 <h1 align="center">Mox</h1>
-<h3 align="center">reverse engineer and polygot developer, with expierence in fullstack development, security tools, -anti bot evasion, desktop apps and more</h3>
+<p align="center">reverse engineer and polygot developer, with expierence in fullstack development, security tools, -anti bot evasion, desktop apps and more</p>
 
 
 ---
