@@ -6,12 +6,8 @@
 </div>
 
 <h2 align="center">
-  <span style="color: #4a4a4a;">Welcome to</span> <span style="color: #ff6b6b;">Mintsuku's</span> <span style="color: #4a4a4a;">GitHub Profile</span>
-</h2>
-
-<p align="center">
   <span style="color: #4a4a4a;">👋 Hi there! I'm Mintsuku, an 18-year-old programmer based in the USA.</span>
-</p>
+</h2>
 
 <h3 align="center" style="color: #4a4a4a;">🌐 Languages</h3>
 <p align="center">
