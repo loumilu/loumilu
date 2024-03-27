@@ -1,23 +1,51 @@
-<p align="center">
- I've not slightest clue what I'm doing here, but what i do know, is i love to program!
-</p>
 
----
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=mintsuku&countColorcountColor&countColor=%b4b4b4" alt="Profile Views"/>
-  <img alt="followers" src="https://img.shields.io/github/followers/mintsuku?color=b4b4b4&style=for-the-badge&logo=github&label=Follow"/>
-</p>
+<!-- Readme Style: Light Mode -->
 
-<h2 align="center">🚀 Skills</h2>
-<p align="center">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="Rust">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="Go">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" alt="nim">
-</p>
+<div align="center">
+  <img src="https://via.placeholder.com/1000x200/f0f0f0/333333?text=Mintsuku" alt="Mintsuku's Banner">
+</div>
+
+<h2 align="center">
+  <span style="color: #4a4a4a;">Welcome to</span> <span style="color: #ff6b6b;">Mintsuku's</span> <span style="color: #4a4a4a;">GitHub Profile</span>
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=mintsuku&title_color=b4b4b4&text_color=b4b4b4&show_icons=true&bg_color=00000000&hide_border=true&icon_color=b4b4b4&hide_title=true&count_private=true" />
+  <span style="color: #4a4a4a;">👋 Hi there! I'm Mintsuku, an 18-year-old programmer based in the USA.</span>
+</p>
+
+<h3 align="center" style="color: #4a4a4a;">🌐 Languages</h3>
+<p align="center">
+  <span style="color: #4a4a4a;">English 🇺🇸 | Spanish 🇪🇸</span>
+</p>
+
+<h3 align="center" style="color: #4a4a4a;">💻 Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go">
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
+</p>
+
+<h3 align="center" style="color: #4a4a4a;">🖥️ Setup</h3>
+<p align="center">
+  <span style="color: #4a4a4a;">MacBook Pro (M1, 2020) | 8GB RAM</span>
+</p>
+
+<h3 align="center" style="color: #4a4a4a;">🔧 Specialties</h3>
+<p align="center">
+  <span style="color: #4a4a4a;">Systems Programming | Building Versatile Tools | Web Development</span>
+</p>
+
+<h3 align="center" style="color: #4a4a4a;">🌟 Fun Fact</h3>
+<p align="center">
+  <span style="color: #4a4a4a;">I love creating tools that make people's lives easier!</span>
+</p>
+
+<h3 align="center" style="color: #4a4a4a;">📫 Let's Connect</h3>
+<p align="center">
+  <a href="https://github.com/mintsuku" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
