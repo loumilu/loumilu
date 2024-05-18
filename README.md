@@ -2,11 +2,11 @@
 <!-- Readme Style: Light Mode -->
 
 <div align="center">
-  <img src="https://via.placeholder.com/1000x200/f0f0f0/333333?text=Minuchu" alt="Minuchu's Banner">
+  <img src="https://via.placeholder.com/1000x200/f0f0f0/333333?text=Minichru" alt="Minichru's Banner">
 </div>
 
 <h2 align="center">
-  <span style="color: #4a4a4a;">👋 Hi there! I'm Minuchu, an 18-year-old programmer based in the USA.</span>
+  <span style="color: #4a4a4a;">👋 Hi there! I'm Minichru, an 18-year-old programmer based in the USA.</span>
 </h2>
 
 <h3 align="center" style="color: #4a4a4a;">🌐 Languages</h3>
@@ -41,7 +41,7 @@
 
 <h3 align="center" style="color: #4a4a4a;">📫 Let's Connect</h3>
 <p align="center">
-  <a href="https://github.com/minuchu" target="_blank">
+  <a href="https://github.com/minichru" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
